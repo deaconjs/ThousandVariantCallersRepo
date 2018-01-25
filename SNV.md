@@ -2,6 +2,7 @@
 
 |caller|pubyear|from|study|source|algorithm|
 |------|-------|----|-----|------|---------|
+|[graphtyper](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#graphtyper)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3964)|[source](https://github.com/DecodeGenetics/graphtyper)|Population-scale genotyping using pangenome graphs|
 |[muse](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#muse)|2016|MD Anderson Cancer Center|[study](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1029-6)|[source](http://bioinformatics.mdanderson.org/main/MuSE)|F81 Markov Substitution Model|
 |[sinvict](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#sinvict)|2016|Simon Frasiser University, Canada|[study](https://academic.oup.com/bioinformatics/article-abstract/33/1/26/2755714/SiNVICT-ultra-sensitive-detection-of-single)|[source](https://sfu-compbio.github.io/sinvict/)|
 |[multigems](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#multigems)|2016|University of California, Riverside|[study](https://academic.oup.com/bioinformatics/article/32/10/1486/1742567/MultiGeMS-detection-of-SNVs-from-multiple-samples)|[source](https://github.com/cui-lab/multigems)|Multinomial Bayesian, base and alignment quality priors|
@@ -51,6 +52,16 @@
 |[vipr](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#vipr)|2011|Max Plank Institute|[study](http://bioinformatics.oxfordjournals.org/content/27/13/i77.full)|[source](https://sourceforge.net/projects/htsvipr/files/vipR/)|Overlapping pools|
 |[crisp](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#crisp)|2010|Scripp's Translational Science Institute, US|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881398/)|[source](https://sites.google.com/site/vibansal/software/crisp)|Overlapping pools|
 |[indelocator](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#indelocator)||CGA/Broad||[source](http://archive.broadinstitute.org/cancer/cga/indelocator)||
+
+### graphtyper
+
+Validated vs: GATK (UG, UGLite, HC, HC joint), Samtools, Platypus, FreeBayes
+
+Used by: deCODE genetics on WGS of > 28,000 Icelanders
+
+Notes: fast, highly scalable, includes HLA typing
+
+Algorithm: Iterative creation of local pangenome graphs for accurate re-alignment of reads to all possible haplotypes.
 
 ### muse
 
