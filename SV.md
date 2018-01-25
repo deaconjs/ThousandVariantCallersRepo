@@ -3,6 +3,7 @@
 
 |Caller|Year|From|Study|Source|Algorithm|
 |------|----|----|-----|------|---------|
+|[popins](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#popins)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3801)|[source](https://github.com/bkehr/popins)|Assembly of unmapped reads across multiple samples, placing of contigs into reference genome, genotyping|
 |[svaba](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svaba)|2017|Broad Institute|[study](http://biorxiv.org/content/early/2017/02/01/105080)|[source](https://github.com/walaj/svaba)|Discordant reads, classify, follow split reads to pool reads, assemble contigs|
 |[valor](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#valor)|2017|Bilkent University|[study](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3444-1)|[source](https://github.com/BilkentCompGen/Valor)|Long-range sequencing|
 |[novobreak](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#novobreak)|2017|University of Texas Maryland Anderson Cancer Center|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5199621/)|[source](https://github.com/abjonnes/novoBreak)|de bruijn kmer hash to filter and assemble mutant contigs|
@@ -64,6 +65,18 @@
 |[breakdancer](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#breakdancer)|2009|WashU St Louis, Mardis|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3661775/)|[source](http://gmt.genome.wustl.edu/packages/breakdancer/)|discordant reads, classify, maq-based|
 |[breakseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#breakseq)|2009,15|Yale, Gerstein|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951730/)|[source](http://sv.gersteinlab.org/breakseq/)|map reads to breakpoints|
 |[pemer](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#pemer)|2009|Yale, Gerstein|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2688268/)|[source](http://sv.gersteinlab.org/pemer/)|split-read start, merge clusters|
+
+### popins
+
+Notes: Non-reference sequence insertions from short-reads, population-scale
+
+Validated vs: [MindTheGap](http://gatb.inria.fr/software/mind-the-gap/), [Pamir](https://academic.oup.com/bioinformatics/article/33/14/i161/3953969)
+
+Used on WGS data of > 15,000 Icelanders and included in [Graph Genome Pipeline](https://www.biorxiv.org/content/early/2017/09/29/194530) and [Illumina Polaris](https://github.com/Illumina/Polaris)
+
+Algorithm: joint assembly of unmapped reads across samples
+
+Description: Collects reads without good alignment to the reference genome, filters these reads for contamination, and assembles the remaining ones into contigs. Next it merges the contigs across samples, which improves the assembly of non-reference sequence insertions shared by several individuals. The merged contigs are anchored into the reference genome using paired-end information and exact breakpoints positions are determined using split alignment. Popins finishes by computing genotype likelihoods for all anchored contig ends in all samples.
 
 ### svaba 
 
