@@ -78,6 +78,7 @@ marginAlign|2015|SNV|nanopore||||149|||||||https://www.ncbi.nlm.nih.gov/pmc/arti
 |gatk hc||||||
 |gatk uv||||||
 |samtools mpileup||||||
+|needlestack||SNVs and indels| multi-sample BAMs|https://github.com/IARCbioinfo/needlestack|
 |BREPA||SV|||https://bitbucket.org/xianfan/brepa|
 |snippy||||n/a|http://www.vicbioinformatics.com/software.snippy.shtml|
 |cna-seq||||||
