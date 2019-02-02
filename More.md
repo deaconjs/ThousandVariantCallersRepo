@@ -4,10 +4,14 @@
 |------|-------|---------|----|-----|------|
 |msisensor|2014|Microsatellite Instability(MSI)|Memorial Sloan Kettering Cancer Center|[study](http://ascopubs.org/doi/pdf/10.1200/PO.17.00084)|[source](https://github.com/ding-lab/msisensor)|
 |msings|2014|MSI|University of Washington, Seattle|[study](https://www.ncbi.nlm.nih.gov/pubmed/24987110)|[source](https://bitbucket.org/uwlabmed/msings)|[study](http://www.sciencedirect.com/science/article/pii/S1525157815001531)|
+|msiplus|2015|MSI|University of Washington, Seattle|[study](https://www.ncbi.nlm.nih.gov/pubmed/26322950)|uses msings|
 |msiseq|2015|MSI|National Cancer Center Singapore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4549793/)|[source](https://cran.r-project.org/web/packages/MSIseq/index.html)|
+|mosaic|2016|MSI|Howard Hughes Medical Institute|[study](https://www.nature.com/articles/nm.4191)|[source](https://github.com/ronaldhause/mosaic)|
 |mirmmr|2017|MSI with methylation and mutation|Siteman Cancer Center, Wash U in St. Louis|[study](https://www.ncbi.nlm.nih.gov/pubmed/28961932)|[source](https://github.com/ding-lab/MIRMMR)|
 |mantis|2017|MSI|The Ohio State University|[study](https://www.ncbi.nlm.nih.gov/pubmed/27980218)|[source](https://github.com/OSU-SRLab/MANTIS)|
-|no name|2017|MSI classification|Harvard Medical School|[study](https://www.nature.com/articles/ncomms15180)|contact authors|
+|msi-coloncore|2017|MSI|Zhejaing University, China|[study](https://jmd.amjpathol.org/article/S1525-1578(17)30369-0/fulltext)|NA|
+|no name|2017|MSI|Harvard Medical School|[study](https://www.nature.com/articles/ncomms15180)|contact authors|
+|msipred|2018|MSI|Miami University, Ohio|[study](https://www.nature.com/articles/s41598-018-35682-z)|[source](https://github.com/wangc29/MSIpred)|
 
 
 ## STR Callers
