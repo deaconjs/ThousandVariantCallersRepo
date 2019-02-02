@@ -103,31 +103,24 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 |caller|orig pub|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
-|sprites|2016|sv||https://academic.oup.com/bioinformatics/article/32/12/1788/1743630/Sprites-detection-of-deletions-from-sequencing|||sv-m|2012|indel||[study](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-132)|[source](https://www.bsse.ethz.ch/mlcb/research/bioinformatics-and-computational-biology/structural-variant-machine--sv-m-.html)|
-|splazers|2012|indel||https://academic.oup.com/bioinformatics/article/28/5/619/248213/Detecting-genomic-indel-variants-with-exact|||Sentieon||||https://peerj.com/preprints/1672.pdf|http://www.sentieon.com/products.html|
-|MindTheGap|2014|insertions|c elegans|https://academic.oup.com/bioinformatics/article/30/24/3451/2422179/MindTheGap-integrated-detection-and-assembly-of|http://gatb.inria.fr/software/mind-the-gap/|
-|Factera|2015|SV/fusion||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296148/|https://factera.stanford.edu/|
-|dindel|2011|indels|Sanger, slow|http://europepmc.org/abstract/MED/20980555|N/A|
-|piCALL|2011|indel|scripps, exon|https://www.ncbi.nlm.nih.gov/pubmed/21653520||
-|svseq 1 & 2|2011|SV|split-read|https://www.ncbi.nlm.nih.gov/pubmed/21994222||
 |Spanner|2011|SV||https://www.ncbi.nlm.nih.gov/pubmed/21293372||
+|VariationHunter|2009|SV||http://genome.cshlp.org/content/19/7/1270.short||
+|PEM|2007|SV |paired-end|http://science.sciencemag.org/content/318/5849/420||
+|svmerge|2010|
+|modil|2009|indels||http://www.nature.com/nmeth/journal/v6/n7/full/nmeth.f.256.html||
+ts-from||
+|cnD|2010|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820678/||
 |SPLINTER|2010|SNV|SNPSeeker + indels|https://www.ncbi.nlm.nih.gov/pubmed/21041413/||
 |bam2mpg|2010|SNV||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945191/||
-|svmerge|2010|
-|snvmix|2010|SNV|early cancer-specific, with low purity expectations|https://academic.oup.com/bioinformatics/article/26/6/730/245170/SNVMix-predicting-single-nucleotide-variants-from||
-|cnD|2010|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820678/||
-|dna sudoku|2009|SNV|overlapping pooling design|https://www.ncbi.nlm.nih.gov/pubmed/19447965/||
+|snvmix|2010|SNV|early cancer-specific, with low purity expectations|https://academic.oup.com/bioinformatics/article/26/6/730/245170/SNVMix-predicting-single-nucleotide-varian|dna sudoku|2009|SNV|overlapping pooling design|https://www.ncbi.nlm.nih.gov/pubmed/19447965/||
 |breseq|2009|SNV|binomial model|https://www.researchgate.net/publication/232776704_Genome_evolution_and_adaptation_in_a_long-term_experiment_with_Escherichia_coli||
 |maq|2009|SNV|bayesian model includes sequencing errors|https://www.ncbi.nlm.nih.gov/pubmed/18714091||
 |SNPSeeker|2009|SNV|pooling. compares observed allele frequencies against the distribution of sequencing errors as measured by the Kullback Leibler (KL) distance|https://www.ncbi.nlm.nih.gov/pubmed/19252504/||
-|modil|2009|indels||http://www.nature.com/nmeth/journal/v6/n7/full/nmeth.f.256.html||
-|VariationHunter|2009|SV||http://genome.cshlp.org/content/19/7/1270.short||
-|mrcanavar|2009|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875196/||
 |maq|2008|SNV||https://www.ncbi.nlm.nih.gov/pubmed/18714091||
-|PEM|2007|SV |paired-end|http://science.sciencemag.org/content/318/5849/420||
 |PolyPhred|2006|SNV||https://www.ncbi.nlm.nih.gov/pubmed/16493422/||
 |SNPDetector|2005|SNV||https://www.ncbi.nlm.nih.gov/pubmed/16261194/||
 |novoSNP|2005|SNV||https://www.ncbi.nlm.nih.gov/pubmed/15741513/||
 |ssahaSNP|2001|SNV||https://www.ncbi.nlm.nih.gov/pubmed/11591649/||
 |polybayes|1999|SNV||https://www.ncbi.nlm.nih.gov/pubmed/10581034/||
+|mrcanavar|2009|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875196/||
 
