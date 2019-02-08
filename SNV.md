@@ -1,7 +1,7 @@
 ## SNP Variant Callers
 
-|caller|pubyear|from|study|source|algorithm|
-|------|-------|----|-----|------|---------|
+|caller|pubyear|from|study|source|algorithm|tictac|
+|------|-------|----|-----|------|---------|------|
 |[graphtyper](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#graphtyper)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3964)|[source](https://github.com/DecodeGenetics/graphtyper)|Population-scale genotyping using pangenome graphs|
 |[muse](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#muse)|2016|MD Anderson Cancer Center|[study](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1029-6)|[source](http://bioinformatics.mdanderson.org/main/MuSE)|F81 Markov Substitution Model|
 |[sinvict](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#sinvict)|2016|Simon Frasiser University, Canada|[study](https://academic.oup.com/bioinformatics/article-abstract/33/1/26/2755714/SiNVICT-ultra-sensitive-detection-of-single)|[source](https://sfu-compbio.github.io/sinvict/)|
