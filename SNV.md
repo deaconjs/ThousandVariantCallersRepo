@@ -3,6 +3,7 @@ Some of these also call indels length 1-5ish.
 
 |caller|pubyear|from|study|source|algorithm|tictac|
 |------|-------|----|-----|------|---------|------|
+|[lancet](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#lancet)|2018|NY Genome Center|[study](https://www.nature.com/articles/s42003-018-0023-9)|[source](https://github.com/nygenome/lancet)||
 |[graphtyper](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#graphtyper)|2017|deCODE genetics|[study](https://www.nature.com/articles/ng.3964)|[source](https://github.com/DecodeGenetics/graphtyper)|Population-scale genotyping using pangenome graphs|
 |[isown](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#isown)|2017|Ontario Institute for Cancer Research|[study](https://www.ncbi.nlm.nih.gov/pubmed/28659176)|[source](https://github.com/ikalatskaya/ISOWN)|Mutect based, tumor-only|
 |[lolopicker](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#lolopicker)|2017|Broad Institute|[study](https://www.ncbi.nlm.nih.gov/pubmed/28416765)|[source](https://github.com/jcarrotzhang/LoLoPicker)||
