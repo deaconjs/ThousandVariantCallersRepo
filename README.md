@@ -8,7 +8,7 @@ Clone the repo, edit the .md text files, and make a pull request to update.
 
 ###### [CNV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV) Copy Number Variants 
 
-###### [SV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV)Structural Variants 
+###### [SV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV) Structural Variants 
 
 
 
