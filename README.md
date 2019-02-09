@@ -12,6 +12,3 @@ Clone the repo, edit the .md text files, and make a pull request to update.
 
 ###### [Other](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/More)
 
-
-
-270
