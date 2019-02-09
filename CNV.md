@@ -1,5 +1,5 @@
 ## Copy Number Variation callers
-These mostly try to measure change in depth due to amplification.
+These measure change in depth due to amplification.
 
 |caller|orig pub|from|study|source|
 |------|--------|----|-----|------|
