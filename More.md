@@ -78,7 +78,8 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 |caller|release|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
-|needlestack|2017|snv+indel| multi-sample BAMs||[source](https://github.com/IARCbioinfo/needlestack)|
+|replow|2017|snv+indel|background error correction|[preprint](https://www.biorxiv.org/node/54075.abstract)|[source](https://sourceforge.net/p/replow/wiki/Home/)|
+|needlestack|2017|snv+indel|multi-sample BAMs||[source](https://github.com/IARCbioinfo/needlestack)|
 |pisces|2017|snv+indel||[conf](https://dl.acm.org/citation.cfm?id=3108203)|[source](https://github.com/Illumina/Pisces)||
 |concod|2016|sv||[conf](http://ieeexplore.ieee.org/abstract/document/7822495/)||
 |cnndel|2016|sv||[conf](http://ieeexplore.ieee.org/abstract/document/7822793/)||
