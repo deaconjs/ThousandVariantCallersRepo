@@ -10,6 +10,8 @@ Clone the repo, edit the .md text files, and make a pull request to update.
 
 ###### [SV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV) Structural Variants 
 
+###### [Other](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/More)
+
 
 
 270 callers
