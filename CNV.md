@@ -53,6 +53,7 @@
 |[jointslm](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#jointslm)|2011|Careggi Hospital, Italy|[study](https://www.ncbi.nlm.nih.gov/pubmed/21321017/)|[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105418/bin/supp_39_10_e65__index.html)|
 |[readdepth](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#readdepth)|2011|Baylor College of Medicine|[study](https://www.ncbi.nlm.nih.gov/pubmed/21305028/)|[source](https://github.com/chrisamiller/readDepth)|
 |[cnaseg](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#cnaseg)|2010|Li Ka Shing Centre, UK|[study](https://www.ncbi.nlm.nih.gov/pubmed/20966003/)|[source](http://www.compbio.group.cam.ac.uk/software/cnaseg/)|
+|[cnd](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#cnd)|2010|Sanger Institute|[study](https://academic.oup.com/bioinformatics/article/26/4/565/243503)|[source](http://www.sanger.ac.uk/resources/software/cnd.html)x|
 |[cnver](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#cnver)|2010|U Toronto|[study](docs.google.com/document/d/1Ki36Ye7cDDA6nlEhgvICsg_IsSguxyBb1u4MCWi5so0/edit)|[source](http://compbio.cs.toronto.edu/CNVer/)|
 |[copyseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#copyseq)|2010|EMBL|[study](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000988)|[source](http://www.mybiosoftware.com/copyseq-1-7-1-discovery-copy-number-genotyping-genomic-structural-variants.html)|
 |[freec](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#freec)|2010|Institut Curie, Barillot|[study](http://bioinformatics.oxfordjournals.org/content/27/2/268.short)|[source](http://boevalab.com/FREEC/)|
@@ -60,6 +61,7 @@
 |[rsw-seq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#rsw-seq)|2010|Harvard Medical School, Park lab|[study](https://www.ncbi.nlm.nih.gov/pubmed/20718989/)|[source](http://compbio.med.harvard.edu/Supplements/BMCBioinfo10-2.html)|
 |[cmds](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#cmds)|2009|WashU St Louis, Province|[study](http://bioinformatics.oxfordjournals.org/content/26/4/464.full)|[source](https://dsgweb.wustl.edu/qunyuan/software/cmds/)|
 |[cnv-seq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#cnv-seq)|2009|National University of Singapore|[study](https://www.ncbi.nlm.nih.gov/pubmed/19267900/)|[source](http://tiger.dbs.nus.edu.sg/CNV-seq/)|
+|[mrfast](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#mrfast)|2009|Howard Hughes Medical Institute|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875196/)|[source](https://sourceforge.net/projects/mrfast/)|
 |[rdxplorer](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#rdxplorer)|2009|Cold Spring Harbor|[study](https://www.ncbi.nlm.nih.gov/pubmed/19657104)|[source](http://rdxplorer.sourceforge.net/)|
 |[segseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#segseq)|2009|Broad Institute|[study](https://www.ncbi.nlm.nih.gov/pubmed/19043412/)||
 

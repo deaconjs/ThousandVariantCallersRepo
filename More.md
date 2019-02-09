@@ -103,13 +103,6 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 |caller|orig pub|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
-|Spanner|2011|SV||https://www.ncbi.nlm.nih.gov/pubmed/21293372||
-|VariationHunter|2009|SV||http://genome.cshlp.org/content/19/7/1270.short||
-|PEM|2007|SV |paired-end|http://science.sciencemag.org/content/318/5849/420||
-|svmerge|2010|
-|modil|2009|indels||http://www.nature.com/nmeth/journal/v6/n7/full/nmeth.f.256.html||
-ts-from||
-|cnD|2010|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820678/||
 |SPLINTER|2010|SNV|SNPSeeker + indels|https://www.ncbi.nlm.nih.gov/pubmed/21041413/||
 |bam2mpg|2010|SNV||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945191/||
 |snvmix|2010|SNV|early cancer-specific, with low purity expectations|https://academic.oup.com/bioinformatics/article/26/6/730/245170/SNVMix-predicting-single-nucleotide-varian|dna sudoku|2009|SNV|overlapping pooling design|https://www.ncbi.nlm.nih.gov/pubmed/19447965/||
@@ -122,5 +115,3 @@ ts-from||
 |novoSNP|2005|SNV||https://www.ncbi.nlm.nih.gov/pubmed/15741513/||
 |ssahaSNP|2001|SNV||https://www.ncbi.nlm.nih.gov/pubmed/11591649/||
 |polybayes|1999|SNV||https://www.ncbi.nlm.nih.gov/pubmed/10581034/||
-|mrcanavar|2009|cnv||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875196/||
-

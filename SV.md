@@ -62,9 +62,11 @@
 |[ingap-sv](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#ingap-sv)|2011|Chinese Academy of Sci, Zhao|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3125812/)|[source](http://ingap.sourceforge.net/)|depth of coverage, paired end|
 |[dindel](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#dindel)|2011|Welcome Trust Sanger Institute|[study](http://europepmc.org/abstract/MED/20980555)|[source](https://github.com/genome/dindel-tgi)|
 |[picall](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#picall)|2011|Scripps Research Institute|[study](https://www.ncbi.nlm.nih.gov/pubmed/21653520)|[source](https://sites.google.com/site/vibansal/software/picall)|
+|[spanner](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#spanner)|2011|1000 Genomes Project|[study](https://www.ncbi.nlm.nih.gov/pubmed/21293372)|[source](https://github.com/chipstewart/Spanner)|
 |[svseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svseq)|2011|University of Connecticut, Storrs CT|[study](https://www.ncbi.nlm.nih.gov/pubmed/21994222)|[source](https://sourceforge.net/projects/svseq/)|
-|[hydra](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#hydra)|2010|U Va|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860164/)|[source](https://code.google.com/archive/p/hydra-sv/)|split-read start, paired end|
 |[age](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#age)|2010|Yale, Gerstein|[study](http://bioinformatics.oxfordjournals.org/content/27/5/595.abstract)|[source](http://sv.gersteinlab.org/age/)|
+|[hydra](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#hydra)|2010|U Va|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860164/)|[source](https://code.google.com/archive/p/hydra-sv/)|split-read start, paired end|
+|[modil](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#modil)|2010|U Toronto|[study](https://www.nature.com/articles/nmeth.f.256)|[source](http://compbio.cs.toronto.edu/modil/)|
 |[slope](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#slope)|2010|WashU St Louis, Pfiefer|[study](https://academic.oup.com/bioinformatics/article/26/21/2684/214667/SLOPE-a-quick-and-accurate-method-for-locating-non)|[source](http://www-genepi.med.utah.edu/suppl/SLOPE/slope_guide.txt)|
 |[svdetect](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svdetect)|2010|Curie Institute|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2905550/)|[source](http://svdetect.sourceforge.net/Site/Manual.html)|discordant reads, classify, sliding window clustering, mate-pair|
 |[svmerge](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#svmerge)|2010|Sanger Institute|[study](http://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-r128)|[source](http://svmerge.sourceforge.net//)|meta-caller|
@@ -72,6 +74,8 @@
 |[breakdancer](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#breakdancer)|2009|WashU St Louis, Mardis|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3661775/)|[source](http://gmt.genome.wustl.edu/packages/breakdancer/)|discordant reads, classify, maq-based|
 |[breakseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#breakseq)|2009,15|Yale, Gerstein|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951730/)|[source](http://sv.gersteinlab.org/breakseq/)|map reads to breakpoints|
 |[pemer](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#pemer)|2009|Yale, Gerstein|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2688268/)|[source](http://sv.gersteinlab.org/pemer/)|split-read start, merge clusters|
+|[variationhunter]|https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#variationhunter)|2009|Howard Hughes Medical Institute|[study](https://genome.cshlp.org/content/19/7/1270.short)|[source](http://variationhunter.sourceforge.net/Home)|
+|[pem](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV#pem)|2007|Yale University|[study](http://science.sciencemag.org/content/318/5849/420.full)|[source](http://sv.gersteinlab.org/index.html)|
 
 ### popins
 
