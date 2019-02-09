@@ -1,4 +1,5 @@
-## SNP Variant Callers
+## Single Nucleotide Variation Callers
+Some of these also call indels length 1-5ish.
 
 |caller|pubyear|from|study|source|algorithm|tictac|
 |------|-------|----|-----|------|---------|------|
