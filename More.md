@@ -79,6 +79,7 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 |caller|release|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
 |needlestack|2017|SNVs and indels| multi-sample BAMs||[source](https://github.com/IARCbioinfo/needlestack)|
+|[pisces](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#pisces)|2017|Illumina|[source](https://github.com/Illumina/Pisces)|
 |concod|2016|sv||[conf.](http://ieeexplore.ieee.org/abstract/document/7822495/)||
 |cnndel|2016|sv||[conf.](http://ieeexplore.ieee.org/abstract/document/7822793/)||
 |svmod|2016|sv||[open](http://link.springer.com/article/10.1007/s00180-016-0674-2)||
