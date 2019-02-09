@@ -3,12 +3,11 @@ The Thousand Variant Callers Project is an archive of variant callers, programs 
 
 Clone the repo, edit the .md text files, and make a pull request to update. 
 
+###### [SNV](https://github.com/deaconjs/ThousandVariantCallersRepo/blob/master/SNV.md) Single Nucleotide Variants 
 
-###### [SNV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV) Single Nucleotide Variants 
+###### [CNV](https://github.com/deaconjs/ThousandVariantCallersRepo/blob/master/CNV.md) Copy Number Variants 
 
-###### [CNV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV) Copy Number Variants 
+###### [SV](https://github.com/deaconjs/ThousandVariantCallersRepo/blob/master/SV.md) Structural Variants 
 
-###### [SV](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SV) Structural Variants 
-
-###### [Other](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/More)
+###### [Other](https://github.com/deaconjs/ThousandVariantCallersRepo/blob/master/More.md)
 
