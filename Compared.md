@@ -1,3 +1,5 @@
+[2018 Study](https://www.researchgate.net/publication/329046244_Comparing_the_performance_of_selected_variant_callers_using_synthetic_data_and_genome_segmentation)
+
 ### Swi9 
 [2017 Study](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1417-7) 
 
