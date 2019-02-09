@@ -3,6 +3,7 @@ Some of these also call indels length 1-5ish.
 
 |caller|pubyear|from|study|source|algorithm|tictac|
 |------|-------|----|-----|------|---------|------|
+|[eraseseq](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#eraseseq)|2018|Fluxion Biosciences, CA|[study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195272)|source?|targets liquid biopsy|
 |[lancet](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#lancet)|2018|NY Genome Center|[study](https://www.nature.com/articles/s42003-018-0023-9)|[source](https://github.com/nygenome/lancet)||
 |[smcounter](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#smcounter)|2018|Qiagen|[study](https://www.ncbi.nlm.nih.gov/pubmed/30192920)|[source](https://github.com/xuchang116/smCounter)||
 |[16gt](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/SNV#16gt)|2017|Johns Hopkins U|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5570013/)|[source](https://github.com/aquaskyline/16GT)||
