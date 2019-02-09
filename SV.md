@@ -1,5 +1,5 @@
 ## Structural Variant Callers
-These identify break points and follow them.
+Identify break points and follow them.
 
 |Caller|Year|From|Study|Source|Algorithm|
 |------|----|----|-----|------|---------|
