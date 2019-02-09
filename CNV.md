@@ -1,3 +1,6 @@
+## Copy Number Variation callers
+These mostly try to measure change in depth due to amplification.
+
 |caller|orig pub|from|study|source|
 |------|--------|----|-----|------|
 |[bic-seq2](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki/CNV#bic-seq2)|2016|Harvard, Park lab|[study](https://academic.oup.com/nar/article/44/13/6274/2457607/Copy-number-analysis-of-whole-genome-data-using)|[source](http://compbio.med.harvard.edu/BIC-seq/)|
