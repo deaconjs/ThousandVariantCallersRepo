@@ -103,13 +103,6 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 
 |caller|orig pub|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
-|SPLINTER|2010|SNV|SNPSeeker + indels|https://www.ncbi.nlm.nih.gov/pubmed/21041413/||
-|bam2mpg|2010|SNV||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945191/||
-|snvmix|2010|SNV|early cancer-specific, with low purity expectations|https://academic.oup.com/bioinformatics/article/26/6/730/245170/SNVMix-predicting-single-nucleotide-varian|dna sudoku|2009|SNV|overlapping pooling design|https://www.ncbi.nlm.nih.gov/pubmed/19447965/||
-|breseq|2009|SNV|binomial model|https://www.researchgate.net/publication/232776704_Genome_evolution_and_adaptation_in_a_long-term_experiment_with_Escherichia_coli||
-|maq|2009|SNV|bayesian model includes sequencing errors|https://www.ncbi.nlm.nih.gov/pubmed/18714091||
-|SNPSeeker|2009|SNV|pooling. compares observed allele frequencies against the distribution of sequencing errors as measured by the Kullback Leibler (KL) distance|https://www.ncbi.nlm.nih.gov/pubmed/19252504/||
-|maq|2008|SNV||https://www.ncbi.nlm.nih.gov/pubmed/18714091||
 |PolyPhred|2006|SNV||https://www.ncbi.nlm.nih.gov/pubmed/16493422/||
 |SNPDetector|2005|SNV||https://www.ncbi.nlm.nih.gov/pubmed/16261194/||
 |novoSNP|2005|SNV||https://www.ncbi.nlm.nih.gov/pubmed/15741513/||
