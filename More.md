@@ -79,18 +79,18 @@ marginAlign|2015|SNV|nanopore|[study](https://www.ncbi.nlm.nih.gov/pmc/articles/
 |caller|release|caller class|input type|study|source|
 |------|--------|------------|----------|-----|------|
 |needlestack|2017|SNVs and indels| multi-sample BAMs||[source](https://github.com/IARCbioinfo/needlestack)|
-|pisces|2017|Illumina||[source](https://github.com/Illumina/Pisces)|
-|concod|2016|sv||[conf.](http://ieeexplore.ieee.org/abstract/document/7822495/)||
-|cnndel|2016|sv||[conf.](http://ieeexplore.ieee.org/abstract/document/7822793/)||
+|pisces|2017|Illumina||[conf]|[source](https://github.com/Illumina/Pisces)||
+|concod|2016|sv||[conf](http://ieeexplore.ieee.org/abstract/document/7822495/)||
+|cnndel|2016|sv||[conf](http://ieeexplore.ieee.org/abstract/document/7822793/)||
 |svmod|2016|sv||[open](http://link.springer.com/article/10.1007/s00180-016-0674-2)||
-|UPS-indel|2016|indel||[conf.](http://ieeexplore.ieee.org/document/7802793/)|[source](https://sourceforge.net/projects/ups-indel/)|
+|UPS-indel|2016|indel||[conf](http://ieeexplore.ieee.org/document/7802793/)|[source](https://sourceforge.net/projects/ups-indel/)|
 |BreakDown|2015|SV/VAF||[thesis](https://scholarship.rice.edu/handle/1911/87870)||
 |excaliburSMD|2014||||[source](https://github.com/cribioinfo/ExScaliburSMD)|
-|takeabreak|2014|inv breakpoints||[conf.](http://link.springer.com/chapter/10.1007%2F978-3-319-07953-0_10)|[source](https://colibread.inria.fr/software/takeabreak/)|
-|QuadGT|2013|SNV|exome trio|[conf.](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S3)|[source](http://www.iro.umontreal.ca/~csuros/quadgt/)|
+|takeabreak|2014|inv breakpoints||[conf](http://link.springer.com/chapter/10.1007%2F978-3-319-07953-0_10)|[source](https://colibread.inria.fr/software/takeabreak/)|
+|QuadGT|2013|SNV|exome trio|[conf](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S5-S3)|[source](http://www.iro.umontreal.ca/~csuros/quadgt/)|
 |SoapSNV|2013|multi|||[source](http://soap.genomics.org.cn/SOAPsnv.html)|
 |CNValidator|2012|CNV|||[source](https://code.google.com/archive/p/cnvalidator/)|
-|mogul|2012|||[conf.](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_23)||
+|mogul|2012|||[conf](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_23)||
 |SeqCNVCBS|2012|CNV|||[source](http://www.mybiosoftware.com/seqcnvcbs-1-0-scan-statistics-cnv-detection-cbs.html)|
 |bassovac|2011||||[source](http://tvap.genome.wustl.edu/tools/bassovac/)|
 |kissnp|2010|||[open](https://hal.inria.fr/inria-00514887/)||
