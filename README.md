@@ -1,8 +1,6 @@
 # ThousandVariantCallersRepo
-The Thousand Variant Callers Project is a comprehensive survey of software available (~250 packages) for identification of mutations in human DNA. Included are links to published studies and software repositories, as well as extensive details for each on benchmarking, algorithmic details, application notes, and so on. 
+The Thousand Variant Callers Project is a record of software that identifies mutations in DNA. Included are links to studies and software sources, and details on benchmarking, algorithm, parameterizations, etc. 
 
 See the [wiki page](https://github.com/deaconjs/ThousandVariantCallersRepo/wiki) or browse the markdown files for the surveys.
 
-[Tictac](https://github.com/deaconjs/tictac) parallelizes variant calling, and contains scripts for a variety of callers from this survey. 
-
-This is a free, community-driven resource so if you see something incorrect or incomplete or have unique insight, please lend a hand! To add content please clone the repo, edit the wiki markdown files, and make a pull request. Thanks!
+This is a free, community-driven resource so if you see something incorrect or incomplete or have unique insight just 'git clone' the repo, edit the .md text files, then make a pull request. 
