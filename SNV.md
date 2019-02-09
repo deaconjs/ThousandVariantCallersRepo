@@ -1,5 +1,5 @@
 ## Single Nucleotide Variation Callers
-These try to count properly and tell signal from noise.
+Count properly and tell signal from noise.
 Some call indels length 1-5ish, some don't. 
 
 |caller|pubyear|from|study|source|algorithm|tictac|
